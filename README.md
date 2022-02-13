@@ -1,2 +1,2 @@
 # frontmentor
-https://github.com/AleksandrSanduliak/frontmentor/index.html
+https://github.com/AleksandrSanduliak/frontmentor/qrcode
